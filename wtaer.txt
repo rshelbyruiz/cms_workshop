@@ -1,0 +1,27 @@
+3
+water xyz file
+O	0.00000		0.0000		0.000
+H1
+H2
+
+
+
+Homework
+
+data
+water.xyz
+write a program
+measure the distances between the atoms
+
+o to O = 0 A
+O to H1 = 9.6 A
+O to H2 = 9.6 A
+
+H1 to O = 9.6 A
+H1 to H2 = 1.529
+
+
+2 hints: distance formula
+numpy.sqrt()
+
+square something = **2
